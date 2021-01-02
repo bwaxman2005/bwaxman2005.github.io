@@ -1,0 +1,441 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#323296"
+vlink = "#000000"
+date = "Last Updated 5/17/2008">
+	<sitename>photographs by bernard</sitename>
+	<photographer>Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "6" col = "7"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Sport_park1.jpg"
+width = "700"
+height = "463"
+thumbpath = "Sport_park1.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park2.jpg"
+width = "700"
+height = "465"
+thumbpath = "Sport_park2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park3.jpg"
+width = "700"
+height = "481"
+thumbpath = "Sport_park3.jpg"
+thumbwidth = "150"
+thumbheight = "103">
+</image>
+
+
+<image
+path = "Sport_park4.jpg"
+width = "700"
+height = "466"
+thumbpath = "Sport_park4.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park41.jpg"
+width = "700"
+height = "466"
+thumbpath = "Sport_park41.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park5.jpg"
+width = "700"
+height = "463"
+thumbpath = "Sport_park5.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park6.jpg"
+width = "700"
+height = "492"
+thumbpath = "Sport_park6.jpg"
+thumbwidth = "150"
+thumbheight = "105">
+</image>
+
+
+<image
+path = "Sport_park71.jpg"
+width = "700"
+height = "487"
+thumbpath = "Sport_park71.jpg"
+thumbwidth = "150"
+thumbheight = "104">
+</image>
+
+
+<image
+path = "Sport_park72.jpg"
+width = "700"
+height = "466"
+thumbpath = "Sport_park72.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park8.jpg"
+width = "700"
+height = "494"
+thumbpath = "Sport_park8.jpg"
+thumbwidth = "150"
+thumbheight = "106">
+</image>
+
+
+<image
+path = "Sport_park9.jpg"
+width = "700"
+height = "474"
+thumbpath = "Sport_park9.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Sport_park91.jpg"
+width = "700"
+height = "493"
+thumbpath = "Sport_park91.jpg"
+thumbwidth = "150"
+thumbheight = "105">
+</image>
+
+
+<image
+path = "Sport_park92.jpg"
+width = "700"
+height = "491"
+thumbpath = "Sport_park92.jpg"
+thumbwidth = "150"
+thumbheight = "105">
+</image>
+
+
+<image
+path = "Sport_park93.jpg"
+width = "700"
+height = "449"
+thumbpath = "Sport_park93.jpg"
+thumbwidth = "150"
+thumbheight = "96">
+</image>
+
+
+<image
+path = "Sport_park94.jpg"
+width = "473"
+height = "700"
+thumbpath = "Sport_park94.jpg"
+thumbwidth = "101"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Sport_park95.jpg"
+width = "700"
+height = "463"
+thumbpath = "Sport_park95.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park96.jpg"
+width = "700"
+height = "471"
+thumbpath = "Sport_park96.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Sport_park97.jpg"
+width = "471"
+height = "700"
+thumbpath = "Sport_park97.jpg"
+thumbwidth = "101"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Sport_park98.jpg"
+width = "700"
+height = "459"
+thumbpath = "Sport_park98.jpg"
+thumbwidth = "150"
+thumbheight = "98">
+</image>
+
+
+<image
+path = "Sport_park99.jpg"
+width = "471"
+height = "700"
+thumbpath = "Sport_park99.jpg"
+thumbwidth = "101"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Sport_park991.jpg"
+width = "700"
+height = "457"
+thumbpath = "Sport_park991.jpg"
+thumbwidth = "150"
+thumbheight = "98">
+</image>
+
+
+<image
+path = "Sport_park992.jpg"
+width = "542"
+height = "700"
+thumbpath = "Sport_park992.jpg"
+thumbwidth = "116"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Sport_park993.jpg"
+width = "700"
+height = "474"
+thumbpath = "Sport_park993.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Sport_park994.jpg"
+width = "700"
+height = "463"
+thumbpath = "Sport_park994.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Sport_park995.jpg"
+width = "700"
+height = "469"
+thumbpath = "Sport_park995.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "Sport_park996.jpg"
+width = "463"
+height = "700"
+thumbpath = "Sport_park996.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Sport_park997.jpg"
+width = "700"
+height = "452"
+thumbpath = "Sport_park997.jpg"
+thumbwidth = "150"
+thumbheight = "96">
+</image>
+
+
+<image
+path = "Sport_park998.jpg"
+width = "700"
+height = "446"
+thumbpath = "Sport_park998.jpg"
+thumbwidth = "150"
+thumbheight = "95">
+</image>
+
+
+<image
+path = "Sport_park999.jpg"
+width = "700"
+height = "474"
+thumbpath = "Sport_park999.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Sport_park9991.jpg"
+width = "700"
+height = "469"
+thumbpath = "Sport_park9991.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "Sport_park9992.jpg"
+width = "700"
+height = "454"
+thumbpath = "Sport_park9992.jpg"
+thumbwidth = "150"
+thumbheight = "97">
+</image>
+
+
+<image
+path = "Sport_park9993.jpg"
+width = "700"
+height = "460"
+thumbpath = "Sport_park9993.jpg"
+thumbwidth = "150"
+thumbheight = "98">
+</image>
+
+
+<image
+path = "Sport_park9994.jpg"
+width = "700"
+height = "460"
+thumbpath = "Sport_park9994.jpg"
+thumbwidth = "150"
+thumbheight = "98">
+</image>
+
+
+<image
+path = "Sport_park9995.jpg"
+width = "700"
+height = "429"
+thumbpath = "Sport_park9995.jpg"
+thumbwidth = "150"
+thumbheight = "92">
+</image>
+
+
+<image
+path = "Sport_park9996.jpg"
+width = "700"
+height = "455"
+thumbpath = "Sport_park9996.jpg"
+thumbwidth = "150"
+thumbheight = "97">
+</image>
+
+
+<image
+path = "Sport_park9997.jpg"
+width = "700"
+height = "433"
+thumbpath = "Sport_park9997.jpg"
+thumbwidth = "150"
+thumbheight = "92">
+</image>
+
+
+<image
+path = "Sport_park9998.jpg"
+width = "700"
+height = "486"
+thumbpath = "Sport_park9998.jpg"
+thumbwidth = "150"
+thumbheight = "104">
+</image>
+
+
+<image
+path = "Sport_park9999.jpg"
+width = "700"
+height = "478"
+thumbpath = "Sport_park9999.jpg"
+thumbwidth = "150"
+thumbheight = "102">
+</image>
+
+
+<image
+path = "Sport_park99991.jpg"
+width = "700"
+height = "460"
+thumbpath = "Sport_park99991.jpg"
+thumbwidth = "150"
+thumbheight = "98">
+</image>
+
+
+<image
+path = "Sport_park99992.jpg"
+width = "700"
+height = "483"
+thumbpath = "Sport_park99992.jpg"
+thumbwidth = "150"
+thumbheight = "103">
+</image>
+
+
+<image
+path = "Sport_park99993.jpg"
+width = "700"
+height = "474"
+thumbpath = "Sport_park99993.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Sport_park99994.jpg"
+width = "700"
+height = "460"
+thumbpath = "Sport_park99994.jpg"
+thumbwidth = "150"
+thumbheight = "98">
+</image>
+
+</images>
+</gallery>

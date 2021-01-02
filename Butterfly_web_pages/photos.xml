@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#1E00FF"
+vlink = "#188000"
+date = "Last updated 3/21/07">
+	<sitename>Photographs by bmw</sitename>
+	<photographer>Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>abwaxman@sbcglobal.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "5" col = "4"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Butterfly_1_1358.jpg"
+width = "500"
+height = "351"
+thumbpath = "Butterfly_1_1358.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "Butterfly_1_1723_C.jpg"
+width = "319"
+height = "500"
+thumbpath = "Butterfly_1_1723_C.jpg"
+thumbwidth = "47"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "Butterfly_2_1415.jpg"
+width = "500"
+height = "332"
+thumbpath = "Butterfly_2_1415.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_2_2996.jpg"
+width = "500"
+height = "369"
+thumbpath = "Butterfly_2_2996.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+
+<image
+path = "Butterfly_2_3033.jpg"
+width = "500"
+height = "331"
+thumbpath = "Butterfly_2_3033.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_2_3121.jpg"
+width = "500"
+height = "331"
+thumbpath = "Butterfly_2_3121.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_2_3136.jpg"
+width = "500"
+height = "331"
+thumbpath = "Butterfly_2_3136.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_3_2345.jpg"
+width = "500"
+height = "343"
+thumbpath = "Butterfly_3_2345.jpg"
+thumbwidth = "75"
+thumbheight = "51">
+</image>
+
+
+<image
+path = "Butterfly_3_3174.jpg"
+width = "500"
+height = "331"
+thumbpath = "Butterfly_3_3174.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_4_2071c.jpg"
+width = "500"
+height = "344"
+thumbpath = "Butterfly_4_2071c.jpg"
+thumbwidth = "75"
+thumbheight = "51">
+</image>
+
+
+<image
+path = "Butterfly_4_2080.jpg"
+width = "500"
+height = "332"
+thumbpath = "Butterfly_4_2080.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_4_2103.jpg"
+width = "500"
+height = "332"
+thumbpath = "Butterfly_4_2103.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_4_2314.jpg"
+width = "500"
+height = "332"
+thumbpath = "Butterfly_4_2314.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_4_2327.jpg"
+width = "500"
+height = "342"
+thumbpath = "Butterfly_4_2327.jpg"
+thumbwidth = "75"
+thumbheight = "51">
+</image>
+
+
+<image
+path = "Butterfly_4_2352.jpg"
+width = "500"
+height = "334"
+thumbpath = "Butterfly_4_2352.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "Butterfly_4_3073.jpg"
+width = "500"
+height = "331"
+thumbpath = "Butterfly_4_3073.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_4_3152.jpg"
+width = "500"
+height = "336"
+thumbpath = "Butterfly_4_3152.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "Butterfly_4_3153.jpg"
+width = "500"
+height = "333"
+thumbpath = "Butterfly_4_3153.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "Butterfly_5_2347.jpg"
+width = "500"
+height = "332"
+thumbpath = "Butterfly_5_2347.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "Butterfly_5_2356.jpg"
+width = "500"
+height = "367"
+thumbpath = "Butterfly_5_2356.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+</images>
+</gallery>

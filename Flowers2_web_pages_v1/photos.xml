@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#1E00FF"
+vlink = "#1E00FF"
+date = "3/21/2007">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>abwaxman@sbcglobal.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "5"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Flower2_0464.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_0464.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_0597.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_0597.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_1774.jpg"
+width = "500"
+height = "375"
+thumbpath = "Flower2_1774.jpg"
+thumbwidth = "125"
+thumbheight = "93">
+</image>
+
+
+<image
+path = "Flower2_2132.jpg"
+width = "500"
+height = "399"
+thumbpath = "Flower2_2132.jpg"
+thumbwidth = "125"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Flower2_2133.jpg"
+width = "500"
+height = "396"
+thumbpath = "Flower2_2133.jpg"
+thumbwidth = "125"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Flower2_2134.jpg"
+width = "500"
+height = "407"
+thumbpath = "Flower2_2134.jpg"
+thumbwidth = "125"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Flower2_2135.jpg"
+width = "500"
+height = "434"
+thumbpath = "Flower2_2135.jpg"
+thumbwidth = "125"
+thumbheight = "108">
+</image>
+
+
+<image
+path = "Flower2_2137.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_2137.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_2139.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_2139.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_2183b.jpg"
+width = "500"
+height = "352"
+thumbpath = "Flower2_2183b.jpg"
+thumbwidth = "125"
+thumbheight = "88">
+</image>
+
+
+<image
+path = "Flower2_2195.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_2195.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_2332.jpg"
+width = "500"
+height = "347"
+thumbpath = "Flower2_2332.jpg"
+thumbwidth = "125"
+thumbheight = "86">
+</image>
+
+
+<image
+path = "Flower2_3597.jpg"
+width = "500"
+height = "331"
+thumbpath = "Flower2_3597.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Flower2_3634.jpg"
+width = "500"
+height = "395"
+thumbpath = "Flower2_3634.jpg"
+thumbwidth = "125"
+thumbheight = "98">
+</image>
+
+
+<image
+path = "Flower2_Iris.jpg"
+width = "375"
+height = "500"
+thumbpath = "Flower2_Iris.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Flower2_white_rose.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_white_rose.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_yellow1.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_yellow1.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower2_yellow2.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower2_yellow2.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Flower_yellow_rose.jpg"
+width = "500"
+height = "332"
+thumbpath = "Flower_yellow_rose.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "flower2_3638.jpg"
+width = "500"
+height = "332"
+thumbpath = "flower2_3638.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+</images>
+</gallery>

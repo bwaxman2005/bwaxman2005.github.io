@@ -1,0 +1,181 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#1E00FF"
+vlink = "#1E00FF"
+date = "3/23/2007">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>abwaxman@sbcglobal.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Scene_1_Highway.jpg"
+width = "500"
+height = "346"
+thumbpath = "Scene_1_Highway.jpg"
+thumbwidth = "150"
+thumbheight = "103">
+</image>
+
+
+<image
+path = "Scene_1_Praire.jpg"
+width = "500"
+height = "346"
+thumbpath = "Scene_1_Praire.jpg"
+thumbwidth = "150"
+thumbheight = "103">
+</image>
+
+
+<image
+path = "Scene_1_fishing.jpg"
+width = "500"
+height = "374"
+thumbpath = "Scene_1_fishing.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Scene_1_iowa.jpg"
+width = "500"
+height = "340"
+thumbpath = "Scene_1_iowa.jpg"
+thumbwidth = "150"
+thumbheight = "102">
+</image>
+
+
+<image
+path = "Scene_2_1596.jpg"
+width = "500"
+height = "331"
+thumbpath = "Scene_2_1596.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_2_1771.jpg"
+width = "500"
+height = "331"
+thumbpath = "Scene_2_1771.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_2_1792.jpg"
+width = "500"
+height = "331"
+thumbpath = "Scene_2_1792.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_2_79-81p2.jpg"
+width = "500"
+height = "272"
+thumbpath = "Scene_2_79-81p2.jpg"
+thumbwidth = "150"
+thumbheight = "81">
+</image>
+
+
+<image
+path = "Scene_3_2960.jpg"
+width = "500"
+height = "332"
+thumbpath = "Scene_3_2960.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_3_2960_sp.jpg"
+width = "500"
+height = "332"
+thumbpath = "Scene_3_2960_sp.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_3_sunset2.jpg"
+width = "500"
+height = "274"
+thumbpath = "Scene_3_sunset2.jpg"
+thumbwidth = "150"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Scene_3_sunset4f.jpg"
+width = "500"
+height = "319"
+thumbpath = "Scene_3_sunset4f.jpg"
+thumbwidth = "150"
+thumbheight = "95">
+</image>
+
+
+<image
+path = "Scene_4_0676b.jpg"
+width = "500"
+height = "331"
+thumbpath = "Scene_4_0676b.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_4_2949.jpg"
+width = "500"
+height = "332"
+thumbpath = "Scene_4_2949.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_4_3074.jpg"
+width = "500"
+height = "332"
+thumbpath = "Scene_4_3074.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Scene_4_3147.jpg"
+width = "500"
+height = "332"
+thumbpath = "Scene_4_3147.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,141 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#1E00FF"
+vlink = "#1E00FF"
+date = "Last updated 3/21/2007">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>abwaxman@sbcglobal.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Rock_0395.jpg"
+width = "331"
+height = "500"
+thumbpath = "Rock_0395.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Rock_0396.jpg"
+width = "500"
+height = "331"
+thumbpath = "Rock_0396.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Rock_0398.jpg"
+width = "331"
+height = "500"
+thumbpath = "Rock_0398.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Rock_0419.jpg"
+width = "500"
+height = "331"
+thumbpath = "Rock_0419.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Rock_0420.jpg"
+width = "331"
+height = "500"
+thumbpath = "Rock_0420.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Rock_10784p.jpg"
+width = "500"
+height = "375"
+thumbpath = "Rock_10784p.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Rock_20796p.jpg"
+width = "500"
+height = "425"
+thumbpath = "Rock_20796p.jpg"
+thumbwidth = "150"
+thumbheight = "127">
+</image>
+
+
+<image
+path = "Rock_3803c.jpg"
+width = "500"
+height = "337"
+thumbpath = "Rock_3803c.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Rock_3806.jpg"
+width = "500"
+height = "332"
+thumbpath = "Rock_3806.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Rock_3809b.jpg"
+width = "332"
+height = "500"
+thumbpath = "Rock_3809b.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Rock_3838.jpg"
+width = "500"
+height = "340"
+thumbpath = "Rock_3838.jpg"
+thumbwidth = "150"
+thumbheight = "102">
+</image>
+
+
+<image
+path = "Rock_Arches.jpg"
+width = "500"
+height = "375"
+thumbpath = "Rock_Arches.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+</images>
+</gallery>

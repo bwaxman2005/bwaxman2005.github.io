@@ -1,0 +1,135 @@
+#previewFull {
+  background-color: #9C9C9C !important;
+  width: 962px !important;
+  color: inherit;
+}
+
+#liveUpdateContactInfo {
+}
+
+#sitetitle {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+body {
+  background-color: #B5B5B5 !important;
+  color: inherit;
+}
+
+#stage, #stage2 {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+.borderRight {
+  border-right: 1px solid #787878 !important;
+}
+
+#wrapper_thumb {
+  width: 967px !important;
+}
+
+.logo {
+  display: none !important;
+}
+
+.detailText {
+  color: #0F0C1D !important;
+  background-color: inherit;
+}
+
+.preview {
+  border: 1px solid #000000 !important;
+}
+
+.thumbnail {
+  background-color: #949494 !important;
+  color: inherit;
+}
+
+.itemNumber {
+  color: #598EA6 !important;
+  display: inherit !important;
+  background-color: inherit;
+}
+
+#stage2 {
+  width: 967px !important;
+}
+
+.thumb, .preview {
+}
+
+.selectedThumbnail, .thumbnail:hover {
+  background-color: #A1A1A1 !important;
+  color: inherit;
+}
+
+.borderTopLeft {
+  border-top: 1px solid #787878 !important;
+  border-left: 1px solid #787878 !important;
+}
+
+.borderRightDotted {
+  border-right: 1px dotted #787878 !important;
+}
+
+.caption {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.emptyThumbnail {
+  background-color: #949494 !important;
+  color: inherit;
+}
+
+#wrapper_large {
+  width: 967px !important;
+}
+
+.borderBottomRight {
+  border-right: 1px solid #787878 !important;
+  border-bottom: 1px solid #787878 !important;
+}
+
+#previewImage {
+  maxSize: 800.00 !important;
+}
+
+.paginationLinks, .pagination, #liveUpdatePagination {
+}
+
+.thumb {
+  border: 1px solid #000000 !important;
+}
+
+#liveUpdateSiteTitle {
+}
+
+.borderBottom {
+  border-bottom: 1px solid #787878 !important;
+}
+
+#stage {
+  width: 967px !important;
+}
+
+.textColor {
+  color: #333333 !important;
+  background-color: inherit;
+}
+linkcolor3 {
+	color: #3FC837;
+}
+.linkcolor4 {
+	color: #4BB946;
+}
+#wrapper_thumb #sitetitle #metadata.siteTitle.value .linkcolor4 #colorlink {
+	color: #4BB946;
+}
+#wrapper_thumb #sitetitle #metadata.siteTitle.value .linkcolor4 #colorlink {
+	color: #0000D2;
+}
+.linkcolor5 {
+	color: #2424B3;
+}

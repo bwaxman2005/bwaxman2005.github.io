@@ -1,0 +1,382 @@
+<gallery
+base = ""
+background = "#C8C8C8"
+banner = "#E0DFE6"
+text = "#000000"
+link = "#0000FF"
+alink = "#0000FF"
+vlink = "#000000"
+date = "7/26/2008">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#E0DFE6"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "0" rows = "5" col = "6"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Courthouse_StLouis1.jpg"
+width = "463"
+height = "700"
+thumbpath = "Courthouse_StLouis1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Courthouse_StLouis2.jpg"
+width = "700"
+height = "506"
+thumbpath = "Courthouse_StLouis2.jpg"
+thumbwidth = "150"
+thumbheight = "108">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Courthouse_StLouis3.jpg"
+width = "700"
+height = "463"
+thumbpath = "Courthouse_StLouis3.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Courthouse_StLouis4.jpg"
+width = "700"
+height = "463"
+thumbpath = "Courthouse_StLouis4.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Courthouse_StLouis5.jpg"
+width = "525"
+height = "700"
+thumbpath = "Courthouse_StLouis5.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2004
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Delaware_Capitol.jpg"
+width = "700"
+height = "463"
+thumbpath = "Delaware_Capitol.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Delaware_Old_Capitol.jpg"
+width = "700"
+height = "469"
+thumbpath = "Delaware_Old_Capitol.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Illinois_Capitol3.jpg"
+width = "463"
+height = "700"
+thumbpath = "Illinois_Capitol3.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Illinois_Capitol4.jpg"
+width = "452"
+height = "700"
+thumbpath = "Illinois_Capitol4.jpg"
+thumbwidth = "96"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Illinois_Capitol5.jpg"
+width = "457"
+height = "700"
+thumbpath = "Illinois_Capitol5.jpg"
+thumbwidth = "98"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Illinois_Capitol6.jpg"
+width = "463"
+height = "700"
+thumbpath = "Illinois_Capitol6.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[View of IL Capitol]]></meta>
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Indiana_Capitol1.jpg"
+width = "464"
+height = "700"
+thumbpath = "Indiana_Capitol1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Indiana_Capitol2.jpg"
+width = "700"
+height = "539"
+thumbpath = "Indiana_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "115">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Iowa_Capitol1.jpg"
+width = "467"
+height = "700"
+thumbpath = "Iowa_Capitol1.jpg"
+thumbwidth = "100"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Iowa_Capitol2.jpg"
+width = "639"
+height = "700"
+thumbpath = "Iowa_Capitol2.jpg"
+thumbwidth = "137"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Iowa_Capitol_Library.jpg"
+width = "463"
+height = "700"
+thumbpath = "Iowa_Capitol_Library.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Kansas_Capitol1.jpg"
+width = "446"
+height = "700"
+thumbpath = "Kansas_Capitol1.jpg"
+thumbwidth = "95"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Kansas_Capitol2.jpg"
+width = "700"
+height = "463"
+thumbpath = "Kansas_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Minnesota_Capitol1.jpg"
+width = "463"
+height = "700"
+thumbpath = "Minnesota_Capitol1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Minnesota_Capitol2.jpg"
+width = "700"
+height = "463"
+thumbpath = "Minnesota_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Minnesota_Capitol3.jpg"
+width = "700"
+height = "520"
+thumbpath = "Minnesota_Capitol3.jpg"
+thumbwidth = "150"
+thumbheight = "111">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Missouri_Capitol1.jpg"
+width = "488"
+height = "700"
+thumbpath = "Missouri_Capitol1.jpg"
+thumbwidth = "104"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Missouri_Capitol2.jpg"
+width = "700"
+height = "464"
+thumbpath = "Missouri_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Missouri_Capitol3.jpg"
+width = "700"
+height = "464"
+thumbpath = "Missouri_Capitol3.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Pennsylvania_Capitol1.jpg"
+width = "700"
+height = "462"
+thumbpath = "Pennsylvania_Capitol1.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Pennsylvania_Capitol2.jpg"
+width = "423"
+height = "700"
+thumbpath = "Pennsylvania_Capitol2.jpg"
+thumbwidth = "90"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Pensylvania_Supreme_Court1.jpg"
+width = "700"
+height = "463"
+thumbpath = "Pensylvania_Supreme_Court1.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2008
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Wisconsin_Capitol1.jpg"
+width = "700"
+height = "463"
+thumbpath = "Wisconsin_Capitol1.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Wisconsin Capitol]]></meta>
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Wisconsin_Capitol2.jpg"
+width = "700"
+height = "463"
+thumbpath = "Wisconsin_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Capitol of Wisconsin]]></meta>
+	<meta name = "copyright"><![CDATA[2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Wisconsin_Capitol3.jpg"
+width = "463"
+height = "700"
+thumbpath = "Wisconsin_Capitol3.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[Capitol of Wisconsin]]></meta>
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+</images>
+</gallery>

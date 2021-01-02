@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#2828FA"
+vlink = "#2828F0"
+date = "Last Updated 11/17/2007">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "5"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "3"> </large>
+<images id = "images">
+
+<image
+path = "Courthouse_StLouis1.jpg"
+width = "463"
+height = "700"
+thumbpath = "Courthouse_StLouis1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Courthouse_StLouis2.jpg"
+width = "700"
+height = "506"
+thumbpath = "Courthouse_StLouis2.jpg"
+thumbwidth = "150"
+thumbheight = "108">
+</image>
+
+
+<image
+path = "Courthouse_StLouis3.jpg"
+width = "700"
+height = "463"
+thumbpath = "Courthouse_StLouis3.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Courthouse_StLouis4.jpg"
+width = "700"
+height = "463"
+thumbpath = "Courthouse_StLouis4.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Courthouse_StLouis5.jpg"
+width = "525"
+height = "700"
+thumbpath = "Courthouse_StLouis5.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Illinois_Capitor1.jpg"
+width = "463"
+height = "700"
+thumbpath = "Illinois_Capitor1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Illinois_Capitor2.jpg"
+width = "700"
+height = "474"
+thumbpath = "Illinois_Capitor2.jpg"
+thumbwidth = "150"
+thumbheight = "101">
+</image>
+
+
+<image
+path = "Indiana_Capitol1.jpg"
+width = "464"
+height = "700"
+thumbpath = "Indiana_Capitol1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Indiana_Capitol2.jpg"
+width = "700"
+height = "539"
+thumbpath = "Indiana_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "115">
+</image>
+
+
+<image
+path = "Iowa_Capitol1.jpg"
+width = "467"
+height = "700"
+thumbpath = "Iowa_Capitol1.jpg"
+thumbwidth = "100"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Iowa_Capitol2.jpg"
+width = "639"
+height = "700"
+thumbpath = "Iowa_Capitol2.jpg"
+thumbwidth = "137"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Iowa_Capitol3.jpg"
+width = "463"
+height = "700"
+thumbpath = "Iowa_Capitol3.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kansas_Capitol1.jpg"
+width = "446"
+height = "700"
+thumbpath = "Kansas_Capitol1.jpg"
+thumbwidth = "95"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kansas_Capitol2.jpg"
+width = "700"
+height = "463"
+thumbpath = "Kansas_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Minnesota_Capitol1.jpg"
+width = "463"
+height = "700"
+thumbpath = "Minnesota_Capitol1.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Minnesota_Capitol2.jpg"
+width = "700"
+height = "463"
+thumbpath = "Minnesota_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Minnesota_Capitol3.jpg"
+width = "700"
+height = "520"
+thumbpath = "Minnesota_Capitol3.jpg"
+thumbwidth = "150"
+thumbheight = "111">
+</image>
+
+
+<image
+path = "Missouri_Capitol1.jpg"
+width = "488"
+height = "700"
+thumbpath = "Missouri_Capitol1.jpg"
+thumbwidth = "104"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Missouri_Capitol2.jpg"
+width = "700"
+height = "464"
+thumbpath = "Missouri_Capitol2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Missouri_Capitol3.jpg"
+width = "700"
+height = "464"
+thumbpath = "Missouri_Capitol3.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,310 @@
+<gallery
+base = ""
+background = "#C8C8C8"
+banner = "#E0DFE6"
+text = "#000000"
+link = "#0000FF"
+alink = "#000000"
+vlink = "#000000"
+date = "7/9/2008">
+	<sitename>photographs by bernard</sitename>
+	<photographer>Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#E0DFE6"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "0" rows = "4" col = "6"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Flower2_0464.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_0464.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_0464]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2008 By Bernard M. Waxman
+]]></meta>
+</image>
+
+
+<image
+path = "Flower2_0597.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_0597.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_0597]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_1774.jpg"
+width = "700"
+height = "525"
+thumbpath = "Flower2_1774.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+	<meta name = "title"><![CDATA[Flower2_1774]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2132.jpg"
+width = "700"
+height = "559"
+thumbpath = "Flower2_2132.jpg"
+thumbwidth = "150"
+thumbheight = "119">
+	<meta name = "title"><![CDATA[Flower2_2132]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2133.jpg"
+width = "700"
+height = "555"
+thumbpath = "Flower2_2133.jpg"
+thumbwidth = "150"
+thumbheight = "118">
+	<meta name = "title"><![CDATA[Flower2_2133]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2134.jpg"
+width = "700"
+height = "570"
+thumbpath = "Flower2_2134.jpg"
+thumbwidth = "150"
+thumbheight = "122">
+	<meta name = "title"><![CDATA[Flower2_2134]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2135.jpg"
+width = "700"
+height = "607"
+thumbpath = "Flower2_2135.jpg"
+thumbwidth = "150"
+thumbheight = "130">
+	<meta name = "title"><![CDATA[Flower2_2135]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2137.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_2137.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_2137]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2139.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_2139.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_2139]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2183b.jpg"
+width = "700"
+height = "493"
+thumbpath = "Flower2_2183b.jpg"
+thumbwidth = "150"
+thumbheight = "105">
+	<meta name = "title"><![CDATA[Flower2_2183b]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2195.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_2195.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_2195]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_2332.jpg"
+width = "700"
+height = "486"
+thumbpath = "Flower2_2332.jpg"
+thumbwidth = "150"
+thumbheight = "104">
+	<meta name = "title"><![CDATA[Flower2_2332]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_3280.jpg"
+width = "700"
+height = "463"
+thumbpath = "Flower2_3280.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_3280]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_3455.jpg"
+width = "700"
+height = "500"
+thumbpath = "Flower2_3455.jpg"
+thumbwidth = "150"
+thumbheight = "107">
+	<meta name = "title"><![CDATA[Flower2_3455]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_3597.jpg"
+width = "700"
+height = "464"
+thumbpath = "Flower2_3597.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_3597]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2005 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_3632.jpg"
+width = "700"
+height = "463"
+thumbpath = "Flower2_3632.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_3632]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2005 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_3634.jpg"
+width = "700"
+height = "553"
+thumbpath = "Flower2_3634.jpg"
+thumbwidth = "150"
+thumbheight = "118">
+	<meta name = "title"><![CDATA[Flower2_3634]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2005 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_Iris.jpg"
+width = "525"
+height = "700"
+thumbpath = "Flower2_Iris.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[Flower2_iris]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_red_rose.jpg"
+width = "700"
+height = "463"
+thumbpath = "Flower2_red_rose.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_red_rose]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_white_rose.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_white_rose.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_white_rose]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower2_yellow2.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower2_yellow2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_yellow2]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Flower_yellow_rose.jpg"
+width = "700"
+height = "465"
+thumbpath = "Flower_yellow_rose.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_yellow rose]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "flower2_3638.jpg"
+width = "700"
+height = "465"
+thumbpath = "flower2_3638.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_3638]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2005 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "flower2_4072.jpg"
+width = "700"
+height = "463"
+thumbpath = "flower2_4072.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Flower2_4072]]></meta>
+	<meta name = "copyright"><![CDATA[Copyright 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+</images>
+</gallery>

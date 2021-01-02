@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#1E00FF"
+vlink = "#1E00FF"
+date = "3/23/2007">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>abwaxman@sbcglobal.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "5"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Misc_0286.jpg"
+width = "331"
+height = "500"
+thumbpath = "Misc_0286.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_0350.jpg"
+width = "322"
+height = "500"
+thumbpath = "Misc_0350.jpg"
+thumbwidth = "80"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_0361.jpg"
+width = "332"
+height = "500"
+thumbpath = "Misc_0361.jpg"
+thumbwidth = "83"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_1492.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_1492.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_1_0229.jpg"
+width = "500"
+height = "332"
+thumbpath = "Misc_1_0229.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Misc_1_0232.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_1_0232.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_1_Frog.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_1_Frog.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_2_1608.jpg"
+width = "500"
+height = "355"
+thumbpath = "Misc_2_1608.jpg"
+thumbwidth = "125"
+thumbheight = "88">
+</image>
+
+
+<image
+path = "Misc_2_2956_sp.jpg"
+width = "332"
+height = "500"
+thumbpath = "Misc_2_2956_sp.jpg"
+thumbwidth = "83"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_2_2983.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_2_2983.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_2_4313b.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_2_4313b.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_2_4352.jpg"
+width = "331"
+height = "500"
+thumbpath = "Misc_2_4352.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_2_4362.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_2_4362.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_2_5125.jpg"
+width = "500"
+height = "349"
+thumbpath = "Misc_2_5125.jpg"
+thumbwidth = "125"
+thumbheight = "87">
+</image>
+
+
+<image
+path = "Misc_2_berry4.jpg"
+width = "500"
+height = "358"
+thumbpath = "Misc_2_berry4.jpg"
+thumbwidth = "125"
+thumbheight = "89">
+</image>
+
+
+<image
+path = "Misc_3007.jpg"
+width = "331"
+height = "500"
+thumbpath = "Misc_3007.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_3_2367.jpg"
+width = "331"
+height = "500"
+thumbpath = "Misc_3_2367.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_3_2407.jpg"
+width = "331"
+height = "500"
+thumbpath = "Misc_3_2407.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Misc_3_Straw-Snow.jpg"
+width = "500"
+height = "331"
+thumbpath = "Misc_3_Straw-Snow.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Misc_3_Tree72.jpg"
+width = "375"
+height = "500"
+thumbpath = "Misc_3_Tree72.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+</images>
+</gallery>

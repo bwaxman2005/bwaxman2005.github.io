@@ -1,0 +1,354 @@
+<gallery
+base = ""
+background = "#C8C8C8"
+banner = "#E0DFE6"
+text = "#000000"
+link = "#0000FF"
+alink = "#000096"
+vlink = "#000096"
+date = "7/27/2008">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#E0DFE6"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "0" rows = "5" col = "6"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Arch_0133.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_0133.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2006 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_0437.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_0437.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[House for Sale]]></meta>
+	<meta name = "copyright"><![CDATA[ © 2006 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_0445.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_0445.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2006 by Bernard M. Waxman
+]]></meta>
+</image>
+
+
+<image
+path = "Arch_0686.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_0686.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_0701.jpg"
+width = "463"
+height = "700"
+thumbpath = "Arch_0701.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_0703b.jpg"
+width = "463"
+height = "700"
+thumbpath = "Arch_0703b.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_1126.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_1126.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_1135.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_1135.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_1140.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_1140.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_1287.jpg"
+width = "463"
+height = "700"
+thumbpath = "Arch_1287.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2006 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_1445_449.jpg"
+width = "700"
+height = "307"
+thumbpath = "Arch_1445_449.jpg"
+thumbwidth = "150"
+thumbheight = "65">
+	<meta name = "copyright"><![CDATA[ © 2006 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_1924.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_1924.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2004
+ by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_2962 sp.jpg"
+width = "700"
+height = "465"
+thumbpath = "Arch_2962 sp.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2005 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_4474.jpg"
+width = "469"
+height = "700"
+thumbpath = "Arch_4474.jpg"
+thumbwidth = "100"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_4488.jpg"
+width = "700"
+height = "488"
+thumbpath = "Arch_4488.jpg"
+thumbwidth = "150"
+thumbheight = "104">
+	<meta name = "copyright"><![CDATA[ © 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_5427.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_5427.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_5435.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_5435.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2007 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_6547.jpg"
+width = "700"
+height = "463"
+thumbpath = "Arch_6547.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_7091-2.jpg"
+width = "495"
+height = "700"
+thumbpath = "Arch_7091-2.jpg"
+thumbwidth = "106"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_7134.jpg"
+width = "700"
+height = "478"
+thumbpath = "Arch_7134.jpg"
+thumbwidth = "150"
+thumbheight = "102">
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_7767.jpg"
+width = "423"
+height = "700"
+thumbpath = "Arch_7767.jpg"
+thumbwidth = "90"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_7904.jpg"
+width = "463"
+height = "700"
+thumbpath = "Arch_7904.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_8543.jpg"
+width = "700"
+height = "488"
+thumbpath = "Arch_8543.jpg"
+thumbwidth = "150"
+thumbheight = "104">
+	<meta name = "copyright"><![CDATA[ © 2008 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_Barn.jpg"
+width = "700"
+height = "560"
+thumbpath = "Arch_Barn.jpg"
+thumbwidth = "150"
+thumbheight = "120">
+	<meta name = "copyright"><![CDATA[ © 2001 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_Barn_sp.jpg"
+width = "700"
+height = "560"
+thumbpath = "Arch_Barn_sp.jpg"
+thumbwidth = "150"
+thumbheight = "120">
+	<meta name = "copyright"><![CDATA[ © 2001 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_Chinese_donuts.jpg"
+width = "700"
+height = "505"
+thumbpath = "Arch_Chinese_donuts.jpg"
+thumbwidth = "150"
+thumbheight = "108">
+	<meta name = "copyright"><![CDATA[ © 2001 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_Kim_house.jpg"
+width = "525"
+height = "700"
+thumbpath = "Arch_Kim_house.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_Water_tower.jpg"
+width = "516"
+height = "700"
+thumbpath = "Arch_Water_tower.jpg"
+thumbwidth = "110"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2001 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_courtb.jpg"
+width = "525"
+height = "700"
+thumbpath = "Arch_courtb.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © 2004 by Bernard M. Waxman]]></meta>
+</image>
+
+
+<image
+path = "Arch_house_iowa.jpg"
+width = "700"
+height = "523"
+thumbpath = "Arch_house_iowa.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+	<meta name = "copyright"><![CDATA[ © 2003 by Bernard M. Waxman]]></meta>
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#323296"
+vlink = "#323296"
+date = "12/1/2007">
+	<sitename>photographs by bernard</sitename>
+	<photographer>Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "5"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Fall_1881.jpg"
+width = "700"
+height = "463"
+thumbpath = "Fall_1881.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Fall_1_1875.jpg"
+width = "437"
+height = "700"
+thumbpath = "Fall_1_1875.jpg"
+thumbwidth = "93"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Fall_4565.jpg"
+width = "465"
+height = "700"
+thumbpath = "Fall_4565.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Fall_DSC1883.jpg"
+width = "700"
+height = "508"
+thumbpath = "Fall_DSC1883.jpg"
+thumbwidth = "150"
+thumbheight = "109">
+</image>
+
+
+<image
+path = "Fall_Grafton.jpg"
+width = "700"
+height = "411"
+thumbpath = "Fall_Grafton.jpg"
+thumbwidth = "150"
+thumbheight = "88">
+</image>
+
+
+<image
+path = "Fall_Louisana_Mo1.jpg"
+width = "700"
+height = "463"
+thumbpath = "Fall_Louisana_Mo1.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Fall_Louisana_Mo2.jpg"
+width = "463"
+height = "700"
+thumbpath = "Fall_Louisana_Mo2.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Fall_leaf_bed_Siue.jpg"
+width = "525"
+height = "700"
+thumbpath = "Fall_leaf_bed_Siue.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Fall_leaf_close2.jpg"
+width = "700"
+height = "525"
+thumbpath = "Fall_leaf_close2.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Fall_leaf_water1.jpg"
+width = "700"
+height = "525"
+thumbpath = "Fall_leaf_water1.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Fall_leaf_water2.jpg"
+width = "700"
+height = "456"
+thumbpath = "Fall_leaf_water2.jpg"
+thumbwidth = "150"
+thumbheight = "97">
+</image>
+
+
+<image
+path = "Fall_leaves3.jpg"
+width = "700"
+height = "523"
+thumbpath = "Fall_leaves3.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Fall_leaves_twigs.jpg"
+width = "700"
+height = "499"
+thumbpath = "Fall_leaves_twigs.jpg"
+thumbwidth = "150"
+thumbheight = "107">
+</image>
+
+
+<image
+path = "Fall_p854p.jpg"
+width = "700"
+height = "506"
+thumbpath = "Fall_p854p.jpg"
+thumbwidth = "150"
+thumbheight = "108">
+</image>
+
+
+<image
+path = "Fall_p859.jpg"
+width = "700"
+height = "525"
+thumbpath = "Fall_p859.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Fall_red_leaf3.jpg"
+width = "497"
+height = "700"
+thumbpath = "Fall_red_leaf3.jpg"
+thumbwidth = "106"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Fall_red_leaf_water.jpg"
+width = "700"
+height = "525"
+thumbpath = "Fall_red_leaf_water.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Fall_red_leaf_water2.jpg"
+width = "700"
+height = "463"
+thumbpath = "Fall_red_leaf_water2.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "Fall_tree_63.jpg"
+width = "700"
+height = "525"
+thumbpath = "Fall_tree_63.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Fall_trees2.jpg"
+width = "700"
+height = "501"
+thumbpath = "Fall_trees2.jpg"
+thumbwidth = "150"
+thumbheight = "107">
+</image>
+
+</images>
+</gallery>

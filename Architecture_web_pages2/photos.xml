@@ -1,0 +1,271 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#000000"
+vlink = "#0000FF"
+date = "6/24/2007">
+	<sitename></sitename>
+	<photographer>photographs by bernard</photographer>
+	<contactinfo>&#194;&#169; Bernard M. Waxman </contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "3" color = "#F0F0F0" border = "0" rows = "5" col = "5"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "3"> </large>
+<images id = "images">
+
+<image
+path = "Arch_0104.jpg"
+width = "416"
+height = "600"
+thumbpath = "Arch_0104.jpg"
+thumbwidth = "86"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_0133.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_0133.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_0437.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_0437.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_0445.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_0445.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_0701.jpg"
+width = "397"
+height = "600"
+thumbpath = "Arch_0701.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_0703b.jpg"
+width = "397"
+height = "600"
+thumbpath = "Arch_0703b.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_1126.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_1126.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_1135.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_1135.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_1140.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_1140.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_1287.jpg"
+width = "397"
+height = "600"
+thumbpath = "Arch_1287.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_1445_449.jpg"
+width = "600"
+height = "263"
+thumbpath = "Arch_1445_449.jpg"
+thumbwidth = "125"
+thumbheight = "54">
+</image>
+
+
+<image
+path = "Arch_1924.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_1924.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_2962 sp.jpg"
+width = "600"
+height = "398"
+thumbpath = "Arch_2962 sp.jpg"
+thumbwidth = "125"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "Arch_3547.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_3547.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_3557.jpg"
+width = "397"
+height = "600"
+thumbpath = "Arch_3557.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_3886.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_3886.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_3889.jpg"
+width = "600"
+height = "397"
+thumbpath = "Arch_3889.jpg"
+thumbwidth = "125"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "Arch_3893.jpg"
+width = "397"
+height = "600"
+thumbpath = "Arch_3893.jpg"
+thumbwidth = "82"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_Barn.jpg"
+width = "600"
+height = "480"
+thumbpath = "Arch_Barn.jpg"
+thumbwidth = "125"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "Arch_Barn_sp.jpg"
+width = "600"
+height = "480"
+thumbpath = "Arch_Barn_sp.jpg"
+thumbwidth = "125"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "Arch_Chinese_donuts.jpg"
+width = "600"
+height = "433"
+thumbpath = "Arch_Chinese_donuts.jpg"
+thumbwidth = "125"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "Arch_Kim_house.jpg"
+width = "450"
+height = "600"
+thumbpath = "Arch_Kim_house.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_Water_tower.jpg"
+width = "442"
+height = "600"
+thumbpath = "Arch_Water_tower.jpg"
+thumbwidth = "92"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_courtb.jpg"
+width = "450"
+height = "600"
+thumbpath = "Arch_courtb.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "Arch_house_iowa.jpg"
+width = "600"
+height = "448"
+thumbpath = "Arch_house_iowa.jpg"
+thumbwidth = "125"
+thumbheight = "93">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#1E00FF"
+vlink = "#1E00FF"
+date = "3/21/2007">
+	<sitename>hotographs by bernard</sitename>
+	<photographer>Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>abwaxman@sbcglobal.net</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "0" rows = "5" col = "4"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#F0F0F0" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "Flower_P81092p2.jpg"
+width = "500"
+height = "375"
+thumbpath = "Flower_P81092p2.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_P81099p.jpg"
+width = "500"
+height = "384"
+thumbpath = "Flower_P81099p.jpg"
+thumbwidth = "75"
+thumbheight = "57">
+</image>
+
+
+<image
+path = "Flower_Red3.jpg"
+width = "500"
+height = "381"
+thumbpath = "Flower_Red3.jpg"
+thumbwidth = "75"
+thumbheight = "57">
+</image>
+
+
+<image
+path = "Flower_Red4.jpg"
+width = "500"
+height = "400"
+thumbpath = "Flower_Red4.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "Flower_Yellow2.jpg"
+width = "500"
+height = "372"
+thumbpath = "Flower_Yellow2.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+
+<image
+path = "Flower_Yellow3.jpg"
+width = "500"
+height = "372"
+thumbpath = "Flower_Yellow3.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+
+<image
+path = "Flower_orange_black.jpg"
+width = "500"
+height = "376"
+thumbpath = "Flower_orange_black.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_orange_red.jpg"
+width = "500"
+height = "374"
+thumbpath = "Flower_orange_red.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_p49.jpg"
+width = "500"
+height = "375"
+thumbpath = "Flower_p49.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_p969pc2.jpg"
+width = "400"
+height = "500"
+thumbpath = "Flower_p969pc2.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "Flower_pink_rose_2.jpg"
+width = "500"
+height = "375"
+thumbpath = "Flower_pink_rose_2.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_pink_roses1.jpg"
+width = "500"
+height = "375"
+thumbpath = "Flower_pink_roses1.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_purple1.jpg"
+width = "500"
+height = "390"
+thumbpath = "Flower_purple1.jpg"
+thumbwidth = "75"
+thumbheight = "58">
+</image>
+
+
+<image
+path = "Flower_red2.jpg"
+width = "500"
+height = "375"
+thumbpath = "Flower_red2.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_red_90.jpg"
+width = "500"
+height = "384"
+thumbpath = "Flower_red_90.jpg"
+thumbwidth = "75"
+thumbheight = "57">
+</image>
+
+
+<image
+path = "Flower_red_yel_twin.jpg"
+width = "500"
+height = "374"
+thumbpath = "Flower_red_yel_twin.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "Flower_rubber1.jpg"
+width = "336"
+height = "500"
+thumbpath = "Flower_rubber1.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "Flower_rubber2.jpg"
+width = "500"
+height = "397"
+thumbpath = "Flower_rubber2.jpg"
+thumbwidth = "75"
+thumbheight = "59">
+</image>
+
+
+<image
+path = "Flower_yellow_flag3.jpg"
+width = "375"
+height = "500"
+thumbpath = "Flower_yellow_flag3.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "flower_twins.jpg"
+width = "369"
+height = "500"
+thumbpath = "flower_twins.jpg"
+thumbwidth = "55"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

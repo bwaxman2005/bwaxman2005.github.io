@@ -1,0 +1,381 @@
+<gallery
+base = ""
+background = "#C8C8C8"
+banner = "#E0DFE6"
+text = "#000000"
+link = "#0000FF"
+alink = "#0000FF"
+vlink = "#000000"
+date = "7/15/2008">
+	<sitename>photographs by bernard</sitename>
+	<photographer>© Bernard M. Waxman</photographer>
+	<contactinfo></contactinfo>
+	<email>bmw@photosbybmw.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Times New Roman" fontsize = "4" color =  "#E0DFE6"> </banner>
+<thumbnail base ="thumbnails/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "0" rows = "5" col = "6"> </thumbnail> 
+<large base ="images/" font = "Times New Roman" fontsize = "4" color = "#E0DFE6" border = "4"> </large>
+<images id = "images">
+
+<image
+path = "DSC_1187.jpg"
+width = "700"
+height = "463"
+thumbpath = "DSC_1187.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[DSC_1187]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2004
+]]></meta>
+</image>
+
+
+<image
+path = "DSC_1193.jpg"
+width = "463"
+height = "700"
+thumbpath = "DSC_1193.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[DSC_1193]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2004]]></meta>
+</image>
+
+
+<image
+path = "DSC_2949.jpg"
+width = "700"
+height = "433"
+thumbpath = "DSC_2949.jpg"
+thumbwidth = "150"
+thumbheight = "92">
+	<meta name = "title"><![CDATA[DSC_2949]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_2962.jpg"
+width = "700"
+height = "465"
+thumbpath = "DSC_2962.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[DSC_2962]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_3028.jpg"
+width = "700"
+height = "465"
+thumbpath = "DSC_3028.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[DSC_3028]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_3035.jpg"
+width = "700"
+height = "465"
+thumbpath = "DSC_3035.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[DSC_3035]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_3074.jpg"
+width = "700"
+height = "465"
+thumbpath = "DSC_3074.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[DSC_3074]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_3083.jpg"
+width = "448"
+height = "700"
+thumbpath = "DSC_3083.jpg"
+thumbwidth = "96"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[DSC_3083]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_3131.jpg"
+width = "465"
+height = "700"
+thumbpath = "DSC_3131.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[DSC_3132]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "DSC_3142.jpg"
+width = "465"
+height = "700"
+thumbpath = "DSC_3142.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[DSC_3142]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2005]]></meta>
+</image>
+
+
+<image
+path = "Ice_Floating.jpg"
+width = "700"
+height = "463"
+thumbpath = "Ice_Floating.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Ice_Floating]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2004]]></meta>
+</image>
+
+
+<image
+path = "Straw_on_Snow.jpg"
+width = "700"
+height = "463"
+thumbpath = "Straw_on_Snow.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[Straw_on_Snow]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2004]]></meta>
+</image>
+
+
+<image
+path = "_DSC2367.jpg"
+width = "463"
+height = "700"
+thumbpath = "_DSC2367.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[_DSC2367]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2006]]></meta>
+</image>
+
+
+<image
+path = "_DSC2376.jpg"
+width = "463"
+height = "700"
+thumbpath = "_DSC2376.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[_DSC2376]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2006]]></meta>
+</image>
+
+
+<image
+path = "_DSC2407.jpg"
+width = "463"
+height = "700"
+thumbpath = "_DSC2407.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[_DSC2407]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2006]]></meta>
+</image>
+
+
+<image
+path = "_DSC2671.jpg"
+width = "700"
+height = "415"
+thumbpath = "_DSC2671.jpg"
+thumbwidth = "150"
+thumbheight = "88">
+	<meta name = "title"><![CDATA[_DSC2671]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2007]]></meta>
+</image>
+
+
+<image
+path = "_DSC2722.jpg"
+width = "700"
+height = "463"
+thumbpath = "_DSC2722.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC2722]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2007]]></meta>
+</image>
+
+
+<image
+path = "_DSC5759.jpg"
+width = "700"
+height = "463"
+thumbpath = "_DSC5759.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC5759]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2007]]></meta>
+</image>
+
+
+<image
+path = "_DSC5771.jpg"
+width = "700"
+height = "463"
+thumbpath = "_DSC5771.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC5771]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2007]]></meta>
+</image>
+
+
+<image
+path = "_DSC5783.jpg"
+width = "700"
+height = "463"
+thumbpath = "_DSC5783.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC5783]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2007]]></meta>
+</image>
+
+
+<image
+path = "_DSC6039.jpg"
+width = "700"
+height = "465"
+thumbpath = "_DSC6039.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC6039]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6041.jpg"
+width = "700"
+height = "466"
+thumbpath = "_DSC6041.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC6041]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6050.jpg"
+width = "700"
+height = "463"
+thumbpath = "_DSC6050.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC6050]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6055.jpg"
+width = "700"
+height = "466"
+thumbpath = "_DSC6055.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+	<meta name = "title"><![CDATA[_DSC6055]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6711.jpg"
+width = "463"
+height = "700"
+thumbpath = "_DSC6711.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[_DSC6711]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6711_b+w.jpg"
+width = "463"
+height = "700"
+thumbpath = "_DSC6711_b+w.jpg"
+thumbwidth = "99"
+thumbheight = "150">
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6724.jpg"
+width = "700"
+height = "452"
+thumbpath = "_DSC6724.jpg"
+thumbwidth = "150"
+thumbheight = "96">
+	<meta name = "title"><![CDATA[_DSC6724]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6727.jpg"
+width = "700"
+height = "449"
+thumbpath = "_DSC6727.jpg"
+thumbwidth = "150"
+thumbheight = "96">
+	<meta name = "title"><![CDATA[_DSC6727]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "_DSC6728.jpg"
+width = "506"
+height = "700"
+thumbpath = "_DSC6728.jpg"
+thumbwidth = "108"
+thumbheight = "150">
+	<meta name = "title"><![CDATA[_DSC6728]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2008]]></meta>
+</image>
+
+
+<image
+path = "p61.jpg"
+width = "700"
+height = "525"
+thumbpath = "p61.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+	<meta name = "title"><![CDATA[p61]]></meta>
+	<meta name = "copyright"><![CDATA[ © Bernard M. Waxman 2003]]></meta>
+</image>
+
+</images>
+</gallery>
